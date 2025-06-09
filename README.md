@@ -1,6 +1,6 @@
 # Hi, I'm Mihai Boroș 👋
 
-### Frontend Developer | React | Next.js | Micro Frontends
+### Frontend Developer | React | Next.js
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mihai-boros/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -8,7 +8,7 @@
   <a href="mailto:borosmihai39@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
-I'm a Frontend Developer passionate about building performant, accessible, and scalable web applications. I specialize in the React ecosystem, have experience with micro frontend architectures, and enjoy creating beautiful, intuitive user interfaces.
+I'm a Frontend Developer passionate about building performant, accessible, and scalable web applications. I specialize in the React ecosystem and enjoy creating beautiful, intuitive user interfaces.
 
 - 🔭 I'm currently focused on building modern, full-stack applications with Next.js.
 - 🌱 I'm always learning, with a current focus on advanced animation and design systems.
